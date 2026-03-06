@@ -1,0 +1,22 @@
+{
+  "duration": 30,
+  "speakers": {
+    "skyhi": [
+      { "start": 3.8, "end": 6.8, "text": "我第一次接触音乐是在高中" },
+      { "start": 7.61, "end": 16.52, "text": "当时我觉得这个东西很有趣就想学一下" },
+      { "start": 16.52, "end": 20.0, "text": "所以就买了一本Pess的书" },
+      { "start": 20.0, "end": 25.0, "text": "然后就自学了" }
+    ],
+    "ayumu": [
+      { "start": 5.0, "end": 8.0, "text": "所以你是自学的吗" },
+      { "start": 8.0, "end": 12.0, "text": "是的，我是自学的" },
+      { "start": 12.0, "end": 15.0, "text": "那你觉得自学和上课有什么区别吗" },
+      { "start": 15.0, "end": 20.0, "text": "我觉得自学更自由，可以按照自己的节奏来学习" }
+    ]
+  },
+  "annotations": [
+    { "start": 0, "end": 5.0, "text": "[音乐]" },
+    { "start": 5.0, "end": 8.0, "text": "[challenge, creative, path to success]" },
+    { "start": 8.0, "end": 12.0, "text": "dive to the new world" }
+  ]
+}
