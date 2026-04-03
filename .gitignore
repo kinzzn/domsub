@@ -1,10 +1,9 @@
 node_modules/
-*.mp4
 
 # Claude Code local config (keep commands/ for skills)
 .claude/*
 !.claude/commands/
 
-# ytdl: keep scripts and output, exclude venv and raw downloads
+# ytdl: exclude venv and raw downloads
 ytdl/.venv/
 ytdl/*.mp4
